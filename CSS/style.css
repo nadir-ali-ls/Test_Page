@@ -104,3 +104,13 @@ header .menu .icon {
         z-index: 1;
     }
 }
+@media (max-width: 600px) {
+    header {
+        height: 12vh;
+        background-color: lightslategray;
+    }
+    header .menu .icon {
+        font-size: 3rem;
+        font-weight: bolder;
+        z-index: 1;
+    }
