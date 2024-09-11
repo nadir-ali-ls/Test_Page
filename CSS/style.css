@@ -93,3 +93,14 @@ header .menu .icon {
     display: block;
     transition: all 1s;
 }
+@media (max-width: 450px) {
+    header {
+        height: 10vh;
+        background-color: lightslategray;
+    }
+    header .menu .icon {
+        font-size: 3rem;
+        font-weight: bolder;
+        z-index: 1;
+    }
+}
