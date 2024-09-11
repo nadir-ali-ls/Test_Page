@@ -37,6 +37,9 @@ body {
   height: 35px;
   font-size: 1.3rem;
 }
+.navigation ul li:hover{
+  background-color: white;
+}
 .navigation ul li a {
   text-decoration: none;
   display: block;
