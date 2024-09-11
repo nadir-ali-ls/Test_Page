@@ -38,7 +38,9 @@ body {
   font-size: 1.3rem;
 }
 .navigation ul li:hover{
-  background-color: silver;
+  background-color: white;
+  color: black;
+  border-radius: 6px;
 }
 .navigation ul li a {
   text-decoration: none;
